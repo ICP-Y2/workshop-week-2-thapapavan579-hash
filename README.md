@@ -104,6 +104,9 @@ Figure 7: Using a breadboard to connect components.
 **3.2.	Learning Reflection**
 
 Write a brief note on the results observed while changing the resistor’s resistance in the simulation. What about direction of LED connected?
+Ans: We observed that when 9V battery is connected with a resister and the resister to switch and the switch to bulb and bulb to battry. the turning the switch  on and off turn the bulb to on and off.
+Here when components connected with battery with the help of breadboard, the
+LED will be light up.
 
 
 ```
