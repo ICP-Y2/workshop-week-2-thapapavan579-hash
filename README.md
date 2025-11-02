@@ -58,7 +58,7 @@ Figure 4: Parallel Battery Combination Simulation Circui
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of the Parallel Battery Combination simulation.
-Ans: we observed that when four 1.5V of battery is connected in Breadboard Small in parallel connection, the multimeter showed overall volatage of 1.50 V.
+Ans: We observed that when four 1.5V of battery is connected in Breadboard Small in parallel connection, the multimeter showed overall volatage of 1.50 V.
 Here, when the batteries are connected in parallel, the overall voltage across the circuit is the sum of the voltage of the batteries.
 
 
@@ -87,7 +87,8 @@ Figure 6: Simple simulation Circuit
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
-
+Ans: we observed that when 9V battery is connected directly with LED, Slidewitch and Resistor, the LED will be light up. 
+Here, when the battery is connected directly, the LED will light up brightly.
 
 ```
 
