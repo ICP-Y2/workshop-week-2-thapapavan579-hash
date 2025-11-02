@@ -58,6 +58,8 @@ Figure 4: Parallel Battery Combination Simulation Circui
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of the Parallel Battery Combination simulation.
+Ans: we observed that when four 1.5V of battery is connected in Breadboard Small in parallel connection, the multimeter showed overall volatage of 1.50 V.
+Here, when the batteries are connected in parallel, the overall voltage across the circuit is the sum of the voltage of the batteries.
 
 
 ```
