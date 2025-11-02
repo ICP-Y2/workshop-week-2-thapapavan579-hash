@@ -29,6 +29,7 @@ Figure 2: Series Battery Combination Simulation Circuit
 1.2.	Learning Reflection
 
 Write a brief note about the results of the Series Battery Combination simulation.
+Ans:
 
 
 ```
